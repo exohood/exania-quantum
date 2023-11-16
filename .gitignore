@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ Object files
+*.o
+*.obj
+*.exe
+*.dll
+*.dylib
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+.env
+
+# Qiskit cache
+qiskit/
+
+# TensorFlow checkpoints
+*.ckpt
+
+# Solidity build artifacts
+build/
+*.bin
+*.abi
+
+# Node modules for Solidity
+node_modules/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Others
+.DS_Store
+Thumbs.db
