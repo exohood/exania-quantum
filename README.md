@@ -1,3 +1,5 @@
+![Title](quantum.png)
+
 # Exania Quantum Computing Integration
 
 # Overview
